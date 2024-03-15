@@ -1,0 +1,9 @@
+i need to create a bitcoin price predictor using re enforecement learning
+
+logic is to create a model we got the data now we have to reward the model based
+on the data. compare real data with predicted data reward based on the difference
+between the amount now real data is the sdata provided in the csv file the input
+will be date and the output will the start amount. 
+
+taking about the ui i need a ui where we can see the progress and how much reward is the model
+getting how accurate is the prediction.
